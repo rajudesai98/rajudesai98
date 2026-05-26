@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 ### ✨&nbsp; About Me
 
 I am a Full Stack Developer with 7+ years of experience in developing enterprise applications and open-source software.
-
 I am also an AI Developer with deep AI technologies such as LLM and Generate AI.
 
- ____                  ____                      
+
+```
+  ____                  ____                      
  / __ \___  ___ ___    / __/__  __ _____________  
 / /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
 \____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
@@ -25,7 +26,8 @@ I am also an AI Developer with deep AI technologies such as LLM and Generate AI.
   / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
  / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
 /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/      
+                 /___/                /___/       
+```
 
 During my free time, I actively contribute to open-source projects on GitHub.
                  
